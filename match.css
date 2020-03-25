@@ -1,0 +1,42 @@
+
+h1 {
+  padding: 8px;
+  background: rgba(255, 0, 0, 0.8);
+  border-radius: 8px;
+  margin: 0;
+  font-size: 64px;
+  font-family: "Roboto Slab", serif;
+}
+.page-heading{
+  font-size:22px;
+  font-family:agency FB;
+  border-left:3px solid white;
+  border-right:3px solid white;
+  transition: all 0.4s;
+  display:inline-block;
+  padding:4px 32px;
+  margin-top: 120px;
+    margin-left: 50px;
+}
+
+.page-heading:hover{
+  padding:4px 48px;
+  background:#32324e;
+}
+.page-heading2{
+  font-size:22px;
+  font-family:agency FB;
+  border-left:3px solid white;
+  border-right:3px solid white;
+  transition: all 0.4s;
+  display:inline-block;
+  padding:4px 32px;
+  margin-top: 120px;
+    margin-left: 50px;
+}
+
+.page-heading2:hover{
+  padding:4px 48px;
+  background:#32324e;
+}
+
